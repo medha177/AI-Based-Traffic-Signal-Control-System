@@ -1,4 +1,4 @@
-# 🚦 AI Smart Traffic Management System
+# 🚦 AI Based Traffic Signal Control System 
 
 An **AI-powered Smart Traffic Management System** that detects vehicles in real-time using **YOLOv8**, analyzes traffic density, dynamically controls traffic signals, stores historical data, and predicts future traffic patterns using machine learning.
 
@@ -326,3 +326,4 @@ This project is for **educational and research purposes**.
 # ⭐ If you like this project
 
 Give it a ⭐ on GitHub and contribute to improve the system!
+
